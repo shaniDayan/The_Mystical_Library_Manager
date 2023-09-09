@@ -13,7 +13,7 @@ and at least one derived class, say `Scroll` and `Tome`. Implement the following
 - Overload the insertion (`<<`) operator to display the contents of the documents.
 - Explain how shared pointers ensure proper memory management in this context.
 
-**Part 2: Operator Overloading and Templates (15 points)**
+**Part 2: Operator Overloading (15 points)**
 
 Extend your design by overloading operators to perform meaningful operations on the mystical documents. 
 Implement the following:
